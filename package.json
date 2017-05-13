@@ -1,0 +1,27 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "scrapin all day",
+  "main": "server.js",
+  "scripts": {
+    "test": "booty"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bebopin64/scrape.git"
+  },
+  "author": "will",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bebopin64/scrape/issues"
+  },
+  "homepage": "https://github.com/bebopin64/scrape#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.9.8",
+    "request": "^2.81.0"
+  }
+}
